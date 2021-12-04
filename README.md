@@ -71,8 +71,12 @@
     <img src="https://komarev.com/ghpvc/?username=antonkomarev&color=brightgreen&style=flat-square">
 </a>
 <a href="https://github.com/akshaycrazzy?tab=followers"><img src="https://img.shields.io/github/followers/akshaycrazzy?label=Followers&style=social" alt="GitHub Badge"></a>
-
+</br>
+</br>
+</br>
 // Which came first: the chicken or the egg?
+</br>
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
+</br>
+</br>
 >>> ["🐔", "🐣", "🐥", "🥚"];
