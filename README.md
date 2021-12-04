@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> TABLE OF CONTENTS -->
 <p align="center"> <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/GXzGNib.png" height="175px"/></a></p>
 
 
