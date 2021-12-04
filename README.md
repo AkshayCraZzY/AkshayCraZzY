@@ -65,7 +65,7 @@
 </p>
 
 ## 👁‍🗨 My Views and Followers
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/akshaycrazzy/">
     <img src="https://komarev.com/ghpvc/?username=antonkomarev&color=brightgreen&style=flat-square">
 </a>
 <a href="https://github.com/akshaycrazzy?tab=followers"><img src="https://img.shields.io/github/followers/akshaycrazzy?label=Followers&style=social" alt="GitHub Badge"></a>
