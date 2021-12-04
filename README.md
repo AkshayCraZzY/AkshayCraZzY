@@ -36,7 +36,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </p>
 <p align="center">
-    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycrazzy&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycrazzy&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=false&bg_color=0D1117" /></a>
     
 
 </p>
