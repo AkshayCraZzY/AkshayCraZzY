@@ -42,11 +42,10 @@
 ## 📊 My Github Stats
 <p align="center">
 <br/>
-    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayCraZzY&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-     <a href="https://github.com/AkshayCraZzY">
-        <img title="Akshay Parakh" alt="Akshay Parakh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akshaycrazzy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)"/>
-    </a>
+
+| <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayCraZzY&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/AkshayCraZzY"><img title="Akshay Parakh" alt="Akshay Parakh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=akshaycrazzy&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)"/></a> |
+| ------------- | ------------- |
+    
 <br/>
     <a href="https://github.com/akshaycrazzy/"><img alt="Akshay Parakh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshaycrazzy&hide_border=true&theme=gotham" /></a>
 </p>
