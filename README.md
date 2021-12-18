@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 <br/>
 
-- 🔭 I’m currently working on **[MargAuto](https://github.com/AkshayCraZzY/MargAuto)**
+- 🔭 I’m currently working on **[MargAuto](https://github.com/AkshayCraZzY/MargAuto) and [WhatApp Selenium](https://github.com/AkshayCraZzY/WhatsApp-Bulk-Message-Sender)**
 
 - 🌱 I’m currently learning realtime automation using **AutoHotKey, Selenium and Python**
 
