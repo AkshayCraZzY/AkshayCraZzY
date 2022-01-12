@@ -71,7 +71,7 @@
 
   <a href="https://www.instagram.com/akki_parakh/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Instagram.png"/></a>
   <a href="https://steamcommunity.com/id/Cra7zY/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Steam.png"/></a>
-  <a href="mailto:akshayparakh98@gmail.com"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Website.png"/></a>
+  <a href="mailto:akshayparakh98@gmail.com?subject=From Github"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Website.png"/></a>
 </ul>
 <br/>
 <h5 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h5>
