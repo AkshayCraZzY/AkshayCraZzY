@@ -1,7 +1,7 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <!--<p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="30%" height="auto" src="https://i.imgur.com/GXzGNib.png" height="175px"/></a></p>-->
 <!--<p align="center"> <a href="#"><img width="40%" height="auto" src="https://i.imgur.com/rCti8VE.png" height="175px"/></a></p>-->
-<!--<p align="center"> <img width="60%" src="https://i.imgur.com/CIQjtwL.gif"/></p>-->
+<p align="center"> <img width="60%" src="https://i.imgur.com/CIQjtwL.gif"/></p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akshay</h1>
