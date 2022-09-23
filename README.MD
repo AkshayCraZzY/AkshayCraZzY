@@ -61,7 +61,7 @@
 
 
 
-<h2 align="center">💬 Connect with me</h2>
+<h2 >💬 Connect with me</h2>
 <ul align="center">
   <br/>
   <a href="https://discordapp.com/users/223083258433241088"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Discord.png"/></a>
