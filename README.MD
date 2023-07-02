@@ -58,20 +58,5 @@
     
 
 </p>
-
-
-
-<h2 >💬 Connect with me</h2>
-<ul align="center">
-  <br/>
-  <a href="https://discordapp.com/users/223083258433241088"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Discord.png"/></a>
-  
-  <a href="https://www.youtube.com/crazzyak"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Youtube.png"/></a>
-  <a href="https://twitter.com/akshayparakh98"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Twitter.png"/></a>
-
-  <a href="https://www.instagram.com/akki_parakh/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Instagram.png"/></a>
-  <a href="https://steamcommunity.com/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Steam.png"/></a>
-  <a href="mailto:akshayparakh98@gmail.com?subject=From Github"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Website.png"/></a>
-</ul>
 <br/>
 <h5 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h5>
